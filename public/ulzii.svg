@@ -1,0 +1,80 @@
+   <svg
+          className="absolute inset-0 w-full h-full opacity-20 pointer-events-none"
+          viewBox="0 0 120 160"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+          style={{ objectFit: "cover" }}
+        >
+          <rect
+            x="40"
+            y="0"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 60 20)"
+          />
+          <rect
+            x="0"
+            y="40"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 20 60)"
+          />
+          <rect
+            x="40"
+            y="40"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 60 60)"
+          />
+          <rect
+            x="80"
+            y="40"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 100 60)"
+          />
+          <rect
+            x="40"
+            y="80"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 60 100)"
+          />
+          <rect
+            x="0"
+            y="120"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 20 140)"
+          />
+          <rect
+            x="40"
+            y="120"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 60 140)"
+          />
+          <rect
+            x="80"
+            y="120"
+            width="40"
+            height="40"
+            stroke="#a78bfa"
+            strokeWidth="4"
+            transform="rotate(45 100 140)"
+          />
+        </svg>
